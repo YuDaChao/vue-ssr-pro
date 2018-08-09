@@ -18,15 +18,15 @@
           </MenuItem>
           <MenuItem name="3">
             <Icon type="md-cloud-upload" />
-            已下载
+            上传资源
           </MenuItem>
           <MenuItem name="5">
-            <Dropdown>
+            <Dropdown @on-click="handleClickMenuItem">
               <Avatar icon="ios-person" size="small" />
               <DropdownMenu slot="list">
-                <DropdownItem>个人中心</DropdownItem>
-                <DropdownItem>设置</DropdownItem>
-                <DropdownItem divided>退出</DropdownItem>
+                <DropdownItem name="/profile" :selected="currentPath === '/profile'">个人中心</DropdownItem>
+                <DropdownItem name="/setting" :selected="currentPath === '/setting'">设置</DropdownItem>
+                <DropdownItem name="/logout" divided>退出</DropdownItem>
               </DropdownMenu>
             </Dropdown>
           </MenuItem>
@@ -39,6 +39,11 @@
 <script>
   export default {
     name: 'HeaderNav',
+    methods: {
+      handleClickMenuItem (name) {
+        this.$router.push(name)
+      },
+    },
     computed: {
       currentPath () {
         return this.$route.path
@@ -71,8 +76,13 @@
     left: 20px;
   }
   .layout-nav{
-    width: 520px;
+    width: 600px;
     margin: 0 auto;
     margin-right: 20px;
+  }
+  .layout-nav::after {
+    content: "";
+    display: block;
+    clear: both;
   }
 </style>

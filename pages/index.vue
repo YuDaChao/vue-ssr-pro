@@ -94,6 +94,2262 @@
                       </div>
                     </div>
                   </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
                 </ul>
               </div>
             </TabPane>
@@ -105,7 +2361,7 @@
         <div class="user-info-wrapper">
           <div class="user-info-content">
             <div class="user-avartar">
-              <img class="avartar" src="https://avatar.csdn.net/A/0/0/2_ygengleman.jpg" alt="">
+              <img class="avartar" src="../assets/images/users/avatar.jpg" alt="">
             </div>
             <h4 class="user-name">YuDC</h4>
             <div class="down-score">
@@ -159,9 +2415,9 @@ export default {
       height 100%
       display flex
       .pull-left
-        width 700px
+        width 780px
         height 100%
-        flex 0 0 700px
+        flex 0 0 780px
         margin-right 20px
         .search-list
           width 100%
@@ -210,7 +2466,7 @@ export default {
           .ablum-detail-wrapper
             .albun-detail-item
               display flex
-              padding 10px 0
+              padding 25px 0
               border-bottom 1px dashed #eee
               .img-type
                 margin-right 15px
@@ -222,7 +2478,7 @@ export default {
                 flex 1
                 overflow hidden
                 .title
-                  margin-bottom 10px
+                  margin-bottom 20px
                   &:hover
                     text-decoration underline
                   a
