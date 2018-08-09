@@ -43,7 +43,60 @@
         </div>
         <div class="content-wrapper">
           <Tabs value="name1">
-            <TabPane label="最新上传" name="name1">最新上传</TabPane>
+            <TabPane label="最新上传" name="name1">
+              <div class="ablum-detail-wrapper">
+                <ul class="album-detail-list">
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">OPENGL绘图控件</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">3</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="albun-detail-item">
+                    <a href="#" class="img-type">
+                      <img src="../assets/images/filesTypes/zip.svg" alt="">
+                    </a>
+                    <div class="detail">
+                      <div class="title">
+                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
+                      </div>
+                      <div class="desc">
+                        <label class="name">
+                          <span>上传者: </span>
+                          <em class="author">YuDC</em>
+                        </label>
+                        <label class="name">
+                          <span>上传时间: </span>
+                          <em class="date">2018-08-01</em>
+                        </label>
+                        <label class="name right">
+                          <span>积分/c币: </span>
+                          <em class="jifen">5</em>
+                        </label>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </TabPane>
             <TabPane label="最多下载" name="name2">最多下载</TabPane>
           </Tabs>
         </div>
@@ -61,7 +114,7 @@
             </div>
           </div>
           <div class="upload-btn">
-            <Button type="error" long>上传资源</Button>
+            <Button type="primary" long>上传资源</Button>
           </div>
         </div>
       </div>
@@ -154,6 +207,51 @@ export default {
           margin-top 30px
           padding 10px 20px
           border 1px solid #eee
+          .ablum-detail-wrapper
+            .albun-detail-item
+              display flex
+              padding 10px 0
+              border-bottom 1px dashed #eee
+              .img-type
+                margin-right 15px
+                img
+                  flex 0 0 42px
+                  width 42px
+                  height 48px
+              .detail
+                flex 1
+                overflow hidden
+                .title
+                  margin-bottom 10px
+                  &:hover
+                    text-decoration underline
+                  a
+                    display block
+                    font-size 16px
+                    font-weight 400
+                    color #333
+                    width 100%
+                    text-overflow ellipsis
+                    overflow hidden
+                    white-space nowrap
+                .desc
+                  .name
+                    margin-right 10px
+                    font-size 12px
+                    font-weight 500
+                    span
+                      color #888
+                      margin-right 5px
+                    &.right
+                      float right
+                      margin-top -8px
+                    em
+                      color #546a7e
+                      &.jifen
+                        color #ff9358
+                        font-size 24px
+                        line-height 24px
+                        font-weight 700
       .pull-right
         width 460px
         height 100%
