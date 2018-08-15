@@ -13,8 +13,8 @@
 
 <script>
   export default {
+    name: 'Album',
     layout: 'base-layout',
-    name: 'Album'
   }
 </script>
 

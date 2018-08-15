@@ -1,21 +1,20 @@
 <template>
-  <div class="layout">
-    <Layout :style="{ minHeight: '100%'}">
-      <header-nav></header-nav>
-      <Content :style="{padding: '64px 50px 0', width: '1200px', margin: '0 auto'}">
-        <nuxt/>
-      </Content>
-      <footer-nav></footer-nav>
-    </Layout>
+  <Layout :style="{ minHeight: '100%'}">
+    <header-nav></header-nav>
+    <Content :style="{padding: '64px 50px 0', width: '1200px', margin: '0 auto'}">
+      <nuxt/>
+    </Content>
+    <footer-nav></footer-nav>
     <BackTop :height="400" :bottom="100">
       <div class="top"><Icon type="ios-arrow-up" style="padding: 0" />返回顶部</div>
     </BackTop>
-  </div>
+  </Layout>
 </template>
 
 <script>
   import HeaderNav from '../components/HeaderNav/HeaderNav'
   import FooterNav from '../components/FooterNav/FooterNav'
+
   export default {
     name: 'base-layout',
     components: {

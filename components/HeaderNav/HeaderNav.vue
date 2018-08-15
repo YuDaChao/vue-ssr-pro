@@ -18,7 +18,7 @@
           </MenuItem>
           <MenuItem name="3">
             <Icon type="md-cloud-upload" />
-            上传资源
+            我的资源
           </MenuItem>
           <MenuItem name="5">
             <Dropdown @on-click="handleClickMenuItem">

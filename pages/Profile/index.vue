@@ -43,6 +43,23 @@
         </div>
       </div>
     </div>
+    <div class="detail">
+      <div class="tabs-content">
+        <Tabs value="name1">
+          <TabPane label="上传资源" name="name1">
+            <div class="empty-wrapper">
+              <img class="empty-icon" src="../../assets/images/empty_icon.png" alt="">
+              <p class="tip">您还没有上传资源<a class="now-upload" href="#">现在去上传</a></p>
+            </div>
+          </TabPane>
+          <TabPane label="积分明细" name="name2">积分明细</TabPane>
+          <TabPane label="下载明细" name="name3">下载明细</TabPane>
+          <TabPane label="我的收藏" name="name4">我的收藏</TabPane>
+          <TabPane label="VIP服务" name="name5">VIP服务</TabPane>
+        </Tabs>
+      </div>
+      <div class="r-connect"></div>
+    </div>
   </div>
 </template>
 
@@ -109,4 +126,37 @@
         .right-btn
           display flex
           align-items center
+    .detail
+      width 100%
+      display flex
+      margin-top 30px
+      .tabs-content
+        flex 0 0 780px
+        width 780px
+        background #fff
+        margin-right 20px
+        border 1px solid #eee
+        .empty-wrapper
+          position absolute
+          left 50%
+          top 50%
+          text-align center
+          font-size 14px
+          font-weight 400
+          transform translate(-50%, -50%)
+          .now-upload
+            margin-left 5px
+            color #e33f3f
+        .ivu-tabs-nav-scroll
+          background #eef1f3
+        .ivu-tabs-tabpane
+          padding 0 16px
+          min-height 200px
+      .r-connect
+        flex 0 0 300px
+        width 300px
+        height 300px
+        background #fff
+        border 1px solid #eee
+
 </style>
