@@ -65,8 +65,9 @@
 
 <script>
   export default {
+    name: 'index',
     layout: 'base-layout',
-    name: 'index'
+    middleware: 'authenticated'
   }
 </script>
 

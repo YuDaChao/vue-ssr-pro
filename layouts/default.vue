@@ -7,10 +7,15 @@
 </template>
 
 <style>
-.content-wrapper {
-  width: 1200px;
-  margin: 0 auto;
-}
+
+  .wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  .content-wrapper {
+    width: 100%;
+    height: 100%;
+  }
 
 </style>
 

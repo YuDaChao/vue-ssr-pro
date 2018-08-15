@@ -12,8 +12,8 @@
 </template>
 
 <script>
-  import HeaderNav from '../components/HeaderNav/HeaderNav'
-  import FooterNav from '../components/FooterNav/FooterNav'
+  import HeaderNav from '../components/HeaderNav'
+  import FooterNav from '../components/FooterNav'
 
   export default {
     name: 'base-layout',

@@ -15,6 +15,7 @@
   export default {
     name: 'Album',
     layout: 'base-layout',
+    middleware: 'authenticated'
   }
 </script>
 
