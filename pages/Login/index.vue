@@ -19,6 +19,9 @@
     components: {
       LoginForm
     },
+    mounted () {
+      this.$store.dispatch('resources/getResources')
+    },
     methods: {
       ...mapActions(['handleLogin']),
       handleUserLogin ({ userName, password }) {
