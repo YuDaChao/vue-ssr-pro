@@ -24,8 +24,20 @@
     },
     methods: {
       ...mapActions(['handleLogin']),
-      handleUserLogin ({ userName, password }) {
-        this.handleLogin({ userName, password })
+      async handleUserLogin ({ userName, password }) {
+        const result = await this.$axios({
+          url: '/api/login',
+          method: 'POST',
+          data: {
+            userName,
+            password
+          }
+        })
+        if (result.status === 200) {
+        console.log(result.user)
+          this.$router.push('/')
+          this.handleLogin(result.user)
+        }
       }
     }
   }

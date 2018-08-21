@@ -195,7 +195,7 @@
 </template>
 
 <script>
-
+import { removeCookie, getTokenFormCookie } from '../util/auth'
 export default {
   layout: 'base-layout',
   middleware: 'authenticated',
@@ -206,6 +206,26 @@ export default {
       resources: ['全部', '文档类', '工具类', '代码类', '其他'],
       checkedTechnology: 0,
       checkedResource: 0
+    }
+  },
+  async fetch({ app, redirect, store }) {
+    // We can use async/await ES6 feature
+    // const data = await app.$axios(`/user`)
+    // if (data.status === 401) {
+    // console.log(data)
+    //   store.commit('CLEAR_USER')
+    //   removeCookie()
+    //   // redirect('/login')
+    // }
+    // return { post: data }
+  },
+  async mounted() {
+    const data = await this.$axios(`/api/user`)
+    if (data.status === 401) {
+    console.log(data)
+      this.$store.commit('CLEAR_USER')
+      removeCookie()
+      this.$router.replace('/login')
     }
   },
   methods: {

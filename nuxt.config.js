@@ -27,7 +27,8 @@ module.exports = {
     { src: '~/assets/styles/reset.styl'}
   ],
   plugins: [
-    '~/plugins/iview'
+    '~/plugins/iview',
+    '~/plugins/axios'
   ],
 
   /**
@@ -35,6 +36,22 @@ module.exports = {
    */
   router: {
     middleware: 'check-auth'
+  },
+  /**
+   * 设置代理
+   */
+  modules: [
+    '@nuxtjs/axios'
+  ],
+  axios: {
+    prefix: '/',
+    baseURL: 'http://localhost:5000',
+    // browserBaseURL: 'http://localhost:3000',
+    credentials: true,
+    proxy: true    
+  },
+  proxy: {
+    '/api/': { target: 'http://localhost:5000', pathRewrite: {'^/api/': ''} }
   },
   /*
   ** Build configuration
@@ -44,6 +61,7 @@ module.exports = {
     extractCSS: { allChunks: true },
     vendor: [
       '~/plugins/iview',
+      '~/plugins/axios'
     ],
     /*
     ** Run ESLint on save
