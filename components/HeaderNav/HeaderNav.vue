@@ -41,6 +41,10 @@
     name: 'HeaderNav',
     methods: {
       handleClickMenuItem (name) {
+        if (name === '/logout') {
+          this.$store.dispatch('logout')
+          return
+        }
         this.$router.push(name)
       },
     },

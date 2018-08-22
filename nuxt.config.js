@@ -46,12 +46,15 @@ module.exports = {
   axios: {
     prefix: '/',
     baseURL: 'http://localhost:5000',
-    // browserBaseURL: 'http://localhost:3000',
+    browserBaseURL: 'http://localhost:7000',
     credentials: true,
     proxy: true    
   },
   proxy: {
     '/api/': { target: 'http://localhost:5000', pathRewrite: {'^/api/': ''} }
+  },
+  env: {
+    baseUrl: process.env.BASE_URL || 'http://localhost:5000'
   },
   /*
   ** Build configuration

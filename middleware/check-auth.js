@@ -20,5 +20,6 @@ export default function ({ store, req }) {
   if (isClient) {
     user = getTokenFormCookie()
   }
+  console.log(user)
   store.commit('SET_USER', user)
 }

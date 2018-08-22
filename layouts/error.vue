@@ -30,7 +30,7 @@
       desc () {
         const status = this.error.statusCode
         return status === 404 ? 'Oh~~您的页面好像飞走了~'
-          : (status === 401 ? 'Oh~~您没有浏览这个页面的权限~' : 'Oh~~鬼知道服务器经历了什么~')
+          : (status === 403 ? 'Oh~~您没有浏览这个页面的权限~' : 'Oh~~鬼知道服务器经历了什么~')
       }
     },
     mounted () {

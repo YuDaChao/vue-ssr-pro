@@ -46,122 +46,26 @@
             <TabPane label="最新上传" name="name1">
               <div class="ablum-detail-wrapper">
                 <ul class="album-detail-list">
-                  <li class="albun-detail-item">
+                  <li class="albun-detail-item" v-for="item in downloadList" :key="item.id">
                     <a href="#" class="img-type">
-                      <img src="../assets/images/filesTypes/doc.svg" alt="">
+                      <img :src="require(`../assets/images${item.imgUrl}`)" alt="">
                     </a>
                     <div class="detail">
                       <div class="title">
-                        <a href="#">OPENGL绘图控件</a>
+                        <a href="#">{{item.title}}</a>
                       </div>
                       <div class="desc">
                         <label class="name">
                           <span>上传者: </span>
-                          <em class="author">YuDC</em>
+                          <em class="author">{{item.author}}</em>
                         </label>
                         <label class="name">
                           <span>上传时间: </span>
-                          <em class="date">2018-08-01</em>
+                          <em class="date">{{item.uploadDate}}</em>
                         </label>
                         <label class="name right">
                           <span>积分/c币: </span>
-                          <em class="jifen">3</em>
-                        </label>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="albun-detail-item">
-                    <a href="#" class="img-type">
-                      <img src="../assets/images/filesTypes/zip.svg" alt="">
-                    </a>
-                    <div class="detail">
-                      <div class="title">
-                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
-                      </div>
-                      <div class="desc">
-                        <label class="name">
-                          <span>上传者: </span>
-                          <em class="author">YuDC</em>
-                        </label>
-                        <label class="name">
-                          <span>上传时间: </span>
-                          <em class="date">2018-08-01</em>
-                        </label>
-                        <label class="name right">
-                          <span>积分/c币: </span>
-                          <em class="jifen">5</em>
-                        </label>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="albun-detail-item">
-                    <a href="#" class="img-type">
-                      <img src="../assets/images/filesTypes/doc.svg" alt="">
-                    </a>
-                    <div class="detail">
-                      <div class="title">
-                        <a href="#">OPENGL绘图控件</a>
-                      </div>
-                      <div class="desc">
-                        <label class="name">
-                          <span>上传者: </span>
-                          <em class="author">YuDC</em>
-                        </label>
-                        <label class="name">
-                          <span>上传时间: </span>
-                          <em class="date">2018-08-01</em>
-                        </label>
-                        <label class="name right">
-                          <span>积分/c币: </span>
-                          <em class="jifen">3</em>
-                        </label>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="albun-detail-item">
-                    <a href="#" class="img-type">
-                      <img src="../assets/images/filesTypes/zip.svg" alt="">
-                    </a>
-                    <div class="detail">
-                      <div class="title">
-                        <a href="#">DevExpress_VCL_18.1.3_Full_Source_with_DxAutoInstaller_2.1.10.part2</a>
-                      </div>
-                      <div class="desc">
-                        <label class="name">
-                          <span>上传者: </span>
-                          <em class="author">YuDC</em>
-                        </label>
-                        <label class="name">
-                          <span>上传时间: </span>
-                          <em class="date">2018-08-01</em>
-                        </label>
-                        <label class="name right">
-                          <span>积分/c币: </span>
-                          <em class="jifen">5</em>
-                        </label>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="albun-detail-item">
-                    <a href="#" class="img-type">
-                      <img src="../assets/images/filesTypes/doc.svg" alt="">
-                    </a>
-                    <div class="detail">
-                      <div class="title">
-                        <a href="#">OPENGL绘图控件</a>
-                      </div>
-                      <div class="desc">
-                        <label class="name">
-                          <span>上传者: </span>
-                          <em class="author">YuDC</em>
-                        </label>
-                        <label class="name">
-                          <span>上传时间: </span>
-                          <em class="date">2018-08-01</em>
-                        </label>
-                        <label class="name right">
-                          <span>积分/c币: </span>
-                          <em class="jifen">3</em>
+                          <em class="jifen">{{item.score}}</em>
                         </label>
                       </div>
                     </div>
@@ -212,19 +116,15 @@ export default {
         '数据库', '行业', '服务器应用', '大数据', '游戏开发', '人工智能', '区块链'],
       resources: ['全部', '文档类', '工具类', '代码类', '其他'],
       checkedTechnology: 0,
-      checkedResource: 0
+      checkedResource: 0,
+      downloadList: []
     }
   },
-  async fetch({ app, redirect, store }) {
-    // We can use async/await ES6 feature
-    // const data = await app.$axios(`/user`)
-    // if (data.status === 401) {
-    // console.log(data)
-    //   store.commit('CLEAR_USER')
-    //   removeCookie()
-    //   // redirect('/login')
-    // }
-    // return { post: data }
+  async asyncData({ app, env, error }) {
+    const result = await app.$axios.get(`${env.baseUrl}/download_list`)
+    if (result.status === 200) {
+      return { downloadList: result.data }
+    }
   },
   async mounted() {
     // const data = await this.$axios(`/api/user`)

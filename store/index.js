@@ -1,3 +1,4 @@
+import { removeCookie } from '../util/auth'
 export const state = () => {
   return {
     user: {}
@@ -16,6 +17,10 @@ export const mutations = {
 export const actions = {
   handleLogin ({ commit }, user) {
     commit('SET_USER', user)
+  },
+  logout ({ commit }) {
+    commit('SET_USER', '')
+    removeCookie()
   }
 }
 

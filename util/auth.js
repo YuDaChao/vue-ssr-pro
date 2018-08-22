@@ -17,7 +17,13 @@ export const getTokenFormCookie = () => {
   if (!jwt) {
     return null
   }
-  return jwtDecode(jwt)
+  try {
+    const decoded = jwtDecode(jwt)
+    return decoded
+  } catch (error) {
+    console.log(error)
+    return null
+  }
 }
 
 /**
@@ -32,7 +38,13 @@ export const getUserFormCookie = (req) => {
   if (!jwtCookie) return null
   const jwt = jwtCookie.split('=')[1]
   if (!jwt) return null
-  return jwtDecode(jwt)
+  try {
+    const decoded = jwtDecode(jwt)
+    return decoded
+  } catch (error) {
+    console.log(error)
+    return null
+  }
 }
 
 /**

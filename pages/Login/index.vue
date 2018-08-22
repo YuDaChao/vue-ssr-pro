@@ -34,8 +34,8 @@
           }
         })
         if (result.status === 200) {
-          this.$router.push('/')
           this.handleLogin(result.data)
+          this.$router.push('/')
         }
       }
     }
