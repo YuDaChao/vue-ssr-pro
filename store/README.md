@@ -9,3 +9,5 @@ https://nuxtjs.org/guide/vuex-store
 
 **This directory is not required, you can delete it if you don't want to use it.**
 
+# tips: 当state中的值为undefin是 state中就不会有该属性
+
