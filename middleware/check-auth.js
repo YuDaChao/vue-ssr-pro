@@ -7,8 +7,8 @@ export default function ({ store, req }) {
    // If nuxt generate, pass this middleware
   let isServer = process.server
   let isClient = process.client
+  let user = null
   console.log(isClient, isServer)
-  let user = ''
   if (isServer && !req) return
 
   // 在服务端

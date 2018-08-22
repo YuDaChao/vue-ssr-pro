@@ -15,7 +15,7 @@ export const getTokenFormCookie = () => {
   if (process.SERVER_BUILD) return
   const jwt = Cookie.get('jwt')
   if (!jwt) {
-    return
+    return null
   }
   return jwtDecode(jwt)
 }
@@ -26,11 +26,12 @@ export const getTokenFormCookie = () => {
  * @returns {*}
  */
 export const getUserFormCookie = (req) => {
-  if (!req.headers.cookie) return
+  if (!req.headers.cookie) return null
   // 从请求头中获取token
   const jwtCookie = req.headers.cookie.split(';').find(c => c.trim().startsWith('jwt='))
+  if (!jwtCookie) return null
   const jwt = jwtCookie.split('=')[1]
-  if (!jwt) return
+  if (!jwt) return null
   return jwtDecode(jwt)
 }
 

@@ -175,15 +175,21 @@
       </div>
       <div class="pull-right">
         <div class="user-info-wrapper">
-          <div class="user-info-content">
+          <div class="user-info-content" v-if="isAuthenticated">
             <div class="user-avartar">
-              <img class="avartar" src="../assets/images/users/avatar.jpg" alt="">
+              <img class="avartar" :src="userAvatar" alt="">
             </div>
-            <h4 class="user-name">YuDC</h4>
+            <h4 class="user-name">{{user.userName}}</h4>
             <div class="down-score">
               <span class="title">下载积分</span>
-              <span class="score">4</span>
+              <span class="score">{{user.score}}</span>
             </div>
+          </div>
+          <div class="user-info-content" v-else>
+            <div class="user-avartar">
+              <div class="avartar on-login" @click="goLogin">点击登录</div>
+            </div>
+            <h4 class="user-name">Hi 欢迎回来..</h4>
           </div>
           <div class="upload-btn">
             <Button type="primary" long>上传资源</Button>
@@ -195,10 +201,11 @@
 </template>
 
 <script>
-import { removeCookie, getTokenFormCookie } from '../util/auth'
+import { mapState, mapGetters } from 'vuex'
+// import { removeCookie, getTokenFormCookie } from '../util/auth'
 export default {
   layout: 'base-layout',
-  middleware: 'authenticated',
+  // middleware: 'authenticated',
   data () {
     return {
       technologys: ['全部', '移动开发', '技术开发', '课程资料', '网络技术', '操作系统', '安全技术',
@@ -220,12 +227,23 @@ export default {
     // return { post: data }
   },
   async mounted() {
-    const data = await this.$axios(`/api/user`)
-    if (data.status === 401) {
-    console.log(data)
-      this.$store.commit('CLEAR_USER')
-      removeCookie()
-      this.$router.replace('/login')
+    // const data = await this.$axios(`/api/user`)
+    // if (data.status === 401) {
+    // console.log(data)
+    //   this.$store.commit('CLEAR_USER')
+    //   removeCookie()
+    //   this.$router.replace('/login')
+    // }
+  },
+  computed: {
+    ...mapState(['user']),
+    ...mapGetters(['isAuthenticated']),
+    userAvatar () {
+      if (this.isAuthenticated) {
+        const avatar = this.user.avatar
+        return require(`../assets/images${avatar}`)
+      }
+      return ''
     }
   },
   methods: {
@@ -233,6 +251,9 @@ export default {
       if (this.checkedTechnology !== index) {
         this.checkedTechnology = index
       }
+    },
+    goLogin () {
+      this.$router.push('/login')
     },
     handleClickResourceTag (index) {
       if (this.checkedResource !== index) {
@@ -364,6 +385,11 @@ export default {
                   width 98px
                   height 98px
                   border-radius 50%
+                  cursor pointer  
+                .on-login
+                  background #dddddd
+                  margin 0 auto
+                  line-height 98px
               .user-name
                 text-align center
                 font-size 16px
