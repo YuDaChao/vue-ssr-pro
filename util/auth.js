@@ -15,14 +15,14 @@ export const getTokenFormCookie = () => {
   if (process.SERVER_BUILD) return
   const jwt = Cookie.get('jwt')
   if (!jwt) {
-    return null
+    return ''
   }
   try {
     const decoded = jwtDecode(jwt)
     return decoded
   } catch (error) {
     console.log(error)
-    return null
+    return ''
   }
 }
 

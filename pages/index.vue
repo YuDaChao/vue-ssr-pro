@@ -140,6 +140,7 @@ export default {
     ...mapGetters(['isAuthenticated']),
     userAvatar () {
       if (this.isAuthenticated) {
+        console.log('user ---> ', this.user)
         const avatar = this.user.avatar
         return require(`../assets/images${avatar}`)
       }

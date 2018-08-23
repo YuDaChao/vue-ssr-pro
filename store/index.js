@@ -18,9 +18,10 @@ export const actions = {
   handleLogin ({ commit }, user) {
     commit('SET_USER', user)
   },
-  logout ({ commit }) {
+  logout ({ commit }, callback) {
     commit('SET_USER', '')
     removeCookie()
+    callback && callback()
   }
 }
 

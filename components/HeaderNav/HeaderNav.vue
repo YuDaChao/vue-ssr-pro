@@ -42,11 +42,16 @@
     methods: {
       handleClickMenuItem (name) {
         if (name === '/logout') {
-          this.$store.dispatch('logout')
+          this.$store.dispatch('logout', this.logoutSuccess)
           return
         }
         this.$router.push(name)
       },
+      logoutSuccess () {
+        if (this.$route.path !== '/') {
+          this.$router.replace('/')
+        }
+      }
     },
     computed: {
       currentPath () {
