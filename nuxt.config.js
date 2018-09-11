@@ -23,11 +23,11 @@ module.exports = {
   ** 引入iview样式
   */
   css: [
-    { src: 'iview/dist/styles/iview.css'},
+    // { src: 'iview/dist/styles/iview.css'},
     { src: '~/assets/styles/reset.styl'}
   ],
   plugins: [
-    '~/plugins/iview',
+    {src: '~plugins/iview', ssr: true},
     '~/plugins/axios'
   ],
 
@@ -48,7 +48,7 @@ module.exports = {
     baseURL: 'http://localhost:5000',
     browserBaseURL: 'http://localhost:7000',
     credentials: true,
-    proxy: true    
+    proxy: true
   },
   proxy: {
     '/api/': { target: 'http://localhost:5000', pathRewrite: {'^/api/': ''} }

@@ -121,10 +121,10 @@ export default {
     }
   },
   async asyncData({ app, env, error }) {
-    const result = await app.$axios.get(`${env.baseUrl}/download_list`)
-    if (result.status === 200) {
-      return { downloadList: result.data }
-    }
+    // const result = await app.$axios.get(`${env.baseUrl}/download_list`)
+    // if (result.status === 200) {
+    //   return { downloadList: result.data }
+    // }
   },
   async mounted() {
     // const data = await this.$axios(`/api/user`)
@@ -286,7 +286,7 @@ export default {
                   width 98px
                   height 98px
                   border-radius 50%
-                  cursor pointer  
+                  cursor pointer
                 .on-login
                   background #dddddd
                   margin 0 auto
